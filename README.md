@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bhushan Chikate</h1>
 <h3 align="center">I Am Aspiring Data Analyst👨‍⚖️</h3>
 
-<img align="right" alt="coding" width="400" scr="![giphy](https://github.com/bhushanchikate123/bhushanchikate123/assets/130853445/e4357263-5301-4d9d-8638-50a385d0d97f)
-">
+<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanchikate123&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanchikate123" /> </p>
+
+- 🌱I’m currently working on **Analytical skills**
 
 - 📝 Take a Look at my PERSONAL website [https://bhushanchikate1237.wixsite.com/data-analyst-1](https://bhushanchikate1237.wixsite.com/data-analyst-1)
 
 - 📫 Email me at **bhushanchikate123@gmail.com**
-
-- 📄 Know about my experiences [https://45145b6e-c7fb-4352-8a92-b1f83e4b4d38.filesusr.com/ugd/037e56_c27b85b890e645aaa70be0b6fbf3c428.pdf](https://45145b6e-c7fb-4352-8a92-b1f83e4b4d38.filesusr.com/ugd/037e56_c27b85b890e645aaa70be0b6fbf3c428.pdf)
-
-- ⚡ Fun fact **The most life-changing book for me is Bhagwat gita.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushanchikate123&show_icons=true&locale=en" alt="bhushanchikate123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushanchikate123&" alt="bhushanchikate123" />< 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushanchikate123&" alt="bhushanchikate123" /></p>
