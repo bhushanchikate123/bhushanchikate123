@@ -1,4 +1,4 @@
-![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/bhushanchikate123/bhushanchikate123/assets/130853445/98e73112-1d84-4a80-920b-3c10fa39ce73)
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Data_Engineering_Tools_for_2022.jpg)
 
 <h1 align="center">Hi 👋, I'm Bhushan Chikate</h1>
 
