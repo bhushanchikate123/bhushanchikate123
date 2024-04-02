@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp9904460.png)
+![MasterHead](https://www.shutterstock.com/image-photo/intelligence-bi-business-analytics-ba-key-1081970570)
 
 <h1 align="center">Hi 👋, I'm Bhushan Chikate</h1>
 
