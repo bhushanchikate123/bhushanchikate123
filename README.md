@@ -1,4 +1,4 @@
-![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Data_Engineering_Tools_for_2022.jpg)
+![MasterHead](https://res.cloudinary.com/dg5ir1kvd/image/fetch/f_auto,fl_advanced_resize%2Cc_fill%2Cg_auto%2Cw_1680%2Ch_582/https://www.ccu.edu/_files/images/cags/programs/data-analytics-degree.jpg%3Fv%3D1711115532992)
 
 <h1 align="center">Hi 👋, I'm Bhushan Chikate</h1>
 
