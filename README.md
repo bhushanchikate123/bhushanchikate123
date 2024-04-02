@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhushan Chikate</h1>
 <h3 align="center">I Am Aspiring Data Analyst👨‍⚖️</h3>
 
-<img align="right" alt="Coding" width="450" src="https://www.careerguide.com/career/wp-content/uploads/2021/07/dream-job_new1.gif">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQE6YzXUFTjnsA/article-cover_image-shrink_600_2000/0/1620202204598?e=2147483647&v=beta&t=O_SLzSvMEWZLv68CRpzPnzC6pKYQgVfkerXnZz53JWQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanchikate123&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanchikate123" /> </p>
 
