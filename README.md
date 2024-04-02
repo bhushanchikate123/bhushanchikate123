@@ -9,6 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanchikate123&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanchikate123" /> </p>
 
 - 🌱I’m currently working on **Analytical skills**
+  
+- 🌱 I’m currently learning Data Analytics
 
 - 📫 Email me at **bhushanchikate123@gmail.com**
 
