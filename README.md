@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-photo/intelligence-bi-business-analytics-ba-key-1081970570)
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_Data_Engineering_Tools_for_2022.jpg)
 
 <h1 align="center">Hi 👋, I'm Bhushan Chikate</h1>
 
